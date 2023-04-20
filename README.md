@@ -84,6 +84,6 @@ Send me your git repo link on discord through direct message by **Friday, 21th A
 
 
 screenshots:
-![](doc//Screenshot (2611).png)
+![](doc//Screenshot(2611).png)
 
 
