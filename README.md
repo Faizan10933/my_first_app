@@ -84,6 +84,11 @@ Send me your git repo link on discord through direct message by **Friday, 21th A
 
 
 screenshots:
+
+1- My docker image and my docker running image.
 ![](doc//dockerop.png)
+
+2- My App output
+![](doc//appoutput.png)
 
 
