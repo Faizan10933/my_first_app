@@ -92,3 +92,20 @@ screenshots:
 ![](doc//appoutput.png)
 
 
+Q1) What is the prerequisite for another machine to run your application if you provide it the docker image ?
+
+Answer: 
+1- The host operating system must be a supported platform for Docker. Docker supports a wide range of operating systems, including Linux, Windows, and macOS.
+2- The Docker must be installed and running on the host machine
+
+Q2) What is the difference between a virtual machine and a docker container ?
+
+Answer:
+
+1- Architecture: Virtual machines are based on a hypervisor that emulates hardware to create multiple virtual machines, each with its own guest operating system. 2-2-Docker containers, on the other hand, share the host operating system kernel and use containerization technology to isolate applications.
+
+2- Resource usage: Virtual machines require more resources than Docker containers because they require a full operating system and virtualized hardware environment for each instance, while Docker containers share the host operating system and use fewer resources.
+
+3- Portability: Docker containers are more portable than virtual machines because they are self-contained units that can be easily moved between different environments. Virtual machines are more difficult to move between environments because they require a complete guest operating system and virtualized hardware environment.
+
+
